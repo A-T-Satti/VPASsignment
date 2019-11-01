@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp7": {
+      "commandName": "Project",
+      "commandLineArgs": "student.txt attend.txt"
+    }
+  }
+}
